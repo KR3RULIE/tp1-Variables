@@ -14,7 +14,7 @@ Este proyecto contiene una colección de ejercicios básicos de JavaScript orien
 | 6   | Comparar dos números e indicar cuál es mayor | 🟢 | Condicionales |
 | 7   | Mostrar el mayor de tres números | 🟢 | Condicionales |
 | 8   | Verificar si un número es divisible por 2 | 🟢 | Módulo, condicionales |
-| 9   | Extraer vocales de una frase | 🟢🟡 | Strings, bucles |
+| 9   | Extraer vocales de una frase | 🟢🟡 | Strings, Condicionales múltiples |
 | 10  | Ver si un número es divisible por 2, 3, 5 o 7 | 🟢🟡 | Condicionales múltiples |
 | 11  | Mostrar todos los números por los que es divisible (2, 3, 5, 7) | 🟢🟡 | Condicionales, lógica |
 | 12  | Realizar una suma de dos números | 🟢 | Prompt, suma |
